@@ -1,6 +1,6 @@
 {
   "name": "gawati-lang-packs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A langauge package for Gawati langauge strings",
   "main": "index.js",
   "scripts": {
