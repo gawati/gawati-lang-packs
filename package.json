@@ -1,19 +1,19 @@
 {
   "name": "gawati-lang-packs",
-  "version": "1.0.1",
-  "description": "A langauge package for Gawati langauge strings",
+  "version": "1.0.2",
+  "description": "A language package for Gawati langauge strings",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:bungenicom/gawati/gawati-lang-packs.git"
+    "url": "git@github.com:gawati/gawati-lang-packs.git"
   },
   "keywords": [
     "gawati",
     "language"
   ],
-  "author": "NPM bungeni <info@bungeni.com>",
-  "license": "ISC"
+  "author": "NPM bungeni <npm@gawati.org>",
+  "license": "agpl-3.0"
 }
